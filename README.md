@@ -9,7 +9,7 @@ Credits:
 ================
 * Freyjadono [For creating EnchantingPlus mod]
 * Nuttyprot [for Creating the textures][Retired From Texturing]
-* CeLittle3 [For His Texture Contributions]
+* Wreckage [For His Texture Contributions]
 * DrakeBD [Editing and Creating the pack]
 
 Licensing:
